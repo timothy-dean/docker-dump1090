@@ -71,7 +71,7 @@ To test everything is working as expected and you are receiving data from any ai
 
 If there are any aircraft flying within range of your receiver, you will see something similar to this:
 
-![image](https://user-images.githubusercontent.com/45572244/111875319-10cbff80-8991-11eb-9685-417a97d3091c.png)
+<img width="813" height="537" alt="image" src="https://github.com/user-attachments/assets/d3eeb1fd-3b86-4192-a2df-92c886c169e0" />
 
 ## Network Ports
 
